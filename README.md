@@ -20,11 +20,11 @@ Decentralized Creator Tipping on Radix
   <!-- Stability -->
   <img src="https://img.shields.io/badge/stability-beta-blue.svg?style=flat-square" alt="API stability" />
   <!-- Version -->
-  <img src="https://img.shields.io/github/v/release/sahid-n/radix-hack?style=flat-square" alt="GitHub release" />
+  <img src="https://img.shields.io/github/v/release/sahid-n/StreamFlow?style=flat-square" alt="GitHub release" />
   <!-- Build Status -->
-  <img src="https://img.shields.io/github/actions/workflow/status/sahid-n/radix-hack/main.yml?style=flat-square" alt="Build Status" />
+  <img src="https://img.shields.io/github/actions/workflow/status/sahid-n/StreamFlow/main.yml?style=flat-square" alt="Build Status" />
   <!-- License -->
-  <img src="https://img.shields.io/github/license/sahid-n/radix-hack?style=flat-square" alt="License" />
+  <img src="https://img.shields.io/github/license/sahid-n/StreamFlow?style=flat-square" alt="License" />
 </div>
 
 
@@ -52,12 +52,12 @@ Decentralized Creator Tipping on Radix
 - 🌍 **Lightweight**: ~10kb minified for fast performance
 
 ## Homepage
-Explore the Radix-Hack homepage:
+Explore the StreamFlow homepage:
 <div align="center">
 <img width="1919" height="819" alt="Screenshot 2025-07-13 075050" src="https://github.com/user-attachments/assets/cc35bc71-d341-412f-9f49-93a673156878" />
 </div>
 <div align="center">
-Radix-Hack Homepage
+StreamFlow Homepage
 </div>
 <div align="center">
 <img width="1882" height="818" alt="Screenshot 2025-07-13 075259" src="https://github.com/user-attachments/assets/ebe88fe7-b533-4ecc-b62e-c1b49d24e1b1" />
@@ -83,17 +83,14 @@ Streamer Status
 </div>
 
 ## Demo Video
-Watch Radix-Hack in action:
+Watch StreamFlow in action:
 
-<video controls>
-  <source src="assets/demo-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[demo-video.mp4](https://www.youtube.com/watch?v=WvYQmypMfFc)
 
 ## Installation
 ```sh
-$ git clone https://github.com/sahid-n/radix-hack.git
-$ cd radix-hack
+$ git clone https://github.com/sahid-n/StreamFlow.git
+$ cd StreamFlow
 $ npm install  # or cargo build
 ```
 ## Usage
@@ -118,4 +115,4 @@ Join our community of contributors:
 Read our Contributing Guidelines and Code of Conduct.
 
 ## Support
-Support Radix-Hack’s development by becoming a sponsor or backer!
+Support StreamFlow’s development by becoming a sponsor or backer!
