@@ -1,0 +1,13 @@
+{
+  "name": "Radix Scrypto",
+  "image": "radixdlt/scrypto-dev-container:rc2",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "rust-lang.rust-analyzer",
+        "tamasfe.even-better-toml",
+        "radixpublishing.radix-developer-tools"
+      ]
+    }
+  }
+}
