@@ -1,10 +1,14 @@
-<h1 align="center">Radix-Hack</h1>
+<h1 align="center">StreamFlow</h1>
 
 <div align="center">
   🚀✨🔗💡🌍
 </div>
 <div align="center">
   <strong>Empowering Radix Blockchain Development</strong>
+
+</div>
+<div align="center">
+Decentralized Creator Tipping on Radix
 </div>
 <div align="center">
   A <code>~10kb</code> TypeScript toolkit for building robust Radix dApps
@@ -23,20 +27,10 @@
   <img src="https://img.shields.io/github/license/sahid-n/radix-hack?style=flat-square" alt="License" />
 </div>
 
-<div align="center">
-  <h3>
-    <a href="https://radix-hack.dev">Website</a>
-    <span> | </span>
-    <a href="https://github.com/sahid-n/radix-hack/wiki">Docs</a>
-    <span> | </span>
-    <a href="https://github.com/sahid-n/radix-hack/blob/main/CONTRIBUTING.md">Contributing</a>
-    <span> | </span>
-    <a href="https://discord.gg/radix-hack">Community</a>
-  </h3>
-</div>
+
 
 <div align="center">
-  <sub>Built with <a href="https://x.com/SahidN">Sahid N</a> and contributors</sub>
+  <sub>Built with Sahid, Ibad and Wasey</sub>
 </div>
 
 ---
@@ -59,8 +53,34 @@
 
 ## Homepage
 Explore the Radix-Hack homepage:
+<div align="center">
+<img width="1919" height="819" alt="Screenshot 2025-07-13 075050" src="https://github.com/user-attachments/assets/cc35bc71-d341-412f-9f49-93a673156878" />
+</div>
+<div align="center">
+Radix-Hack Homepage
+</div>
+<div align="center">
+<img width="1882" height="818" alt="Screenshot 2025-07-13 075259" src="https://github.com/user-attachments/assets/ebe88fe7-b533-4ecc-b62e-c1b49d24e1b1" />
+</div>
+<div align="center">
+Tip Analytics Page
+</div>
+<img width="1892" height="821" alt="Screenshot 2025-07-13 075517" src="https://github.com/user-attachments/assets/c62838b9-b58e-4577-ada4-225620f9411e" />
 
-![Radix-Hack Homepage](assets/homepage-screenshot.png)
+<div align="center">
+Viewer Portal Page(1)
+</div>
+<img width="1825" height="589" alt="Screenshot 2025-07-13 075524" src="https://github.com/user-attachments/assets/7289b1ec-f7ab-419c-8f33-318b54782f82" />
+
+<div align="center">
+Viewer Portal Page(2)
+</div>
+
+<img width="1891" height="816" alt="Screenshot 2025-07-13 075545" src="https://github.com/user-attachments/assets/020752ad-1052-4609-a67c-96af40fa2433" />
+
+<div align="center">
+Streamer Status
+</div>
 
 ## Demo Video
 Watch Radix-Hack in action:
